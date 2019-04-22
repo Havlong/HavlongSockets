@@ -13,7 +13,7 @@ After all, use public `start()` method in your main program.
 To build a socket client with **HavlongSockets**, add to your project files **HavlongSClient.cpp** and **HavlongSClient.h**.
 There you need only to implement method `handleData()`, that will give you info from the server in the `data` variable.
 
-####You can check out the example of:
+### You can check out the example of:
 - Server built with this library in files CheckerServerExample.cpp and CheckerServerImpl.cpp.
 
 - Client built with this library in files CheckerClientExample.cpp and CheckerClientImpl.cpp.
